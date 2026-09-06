@@ -8,7 +8,7 @@ The dashboard transforms raw supermarket sales data into meaningful business ins
 
 ## 📊 Dashboard Preview
 
-![Supermarket Sales Dashboard](Dashboard.png)
+![Supermarket Sales Dashboard](overview.png)
 
 > **Note:** Replace `Dashboard.png` with the actual filename of your dashboard screenshot uploaded to this repository.
 
