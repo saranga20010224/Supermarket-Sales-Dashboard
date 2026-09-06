@@ -8,7 +8,10 @@ The dashboard transforms raw supermarket sales data into meaningful business ins
 
 ## 📊 Dashboard Preview
 
-![Supermarket Sales Dashboard](Screenshots/overview.png)
+![Supermarket Sales Dashboard](Screenshots/overview.png) 
+![Supermarket Sales Dashboard](Screenshots/products.png) 
+![Supermarket Sales Dashboard](Screenshots/customers.png) 
+![Supermarket Sales Dashboard](Screenshots/details.png) 
 
 ---
 
